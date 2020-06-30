@@ -13,7 +13,7 @@ section {
 div{
   /*border: 1px solid black;*/
   float: left;
-  padding: 10px;
+  
   border: 1px solid black;
   background-color: #808080;
   margin: 10px;
@@ -33,7 +33,8 @@ Large devices
 div{
   /*border: 1px solid black;*/
   float: left;
-  padding: 10px;
+  padding-right: 0px;
+  padding-bottom: 0px;
   width: 30%;  
 }
 
@@ -45,7 +46,8 @@ medium
 div{
   /*border: 1px solid black;*/
   float: left;
-  padding: 10px;
+  padding-right: 0px;
+  padding-bottom: 0px;
   width: 50%; 
    
 }
@@ -57,7 +59,8 @@ Small
 div{
   /*border: 1px solid black;*/
   float: left;
-  padding: 10px;
+  padding-right: 0px;
+  padding-bottom: 0px;
   width: 100%;
     
 }
